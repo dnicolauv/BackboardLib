@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments />
+  <NativeLibraries />
+  <Jars>
+    <Jar>obj/Debug/__library_projects__/ReboundDroid/library_project_imports/ReboundDroid.Jars.rebound-v0.3.4.jar</Jar>
+  </Jars>
+</Paths>

@@ -1,0 +1,16 @@
+E:\dnvXam\BackboardLib\BackboardLib\bin\Debug\BackboardLib.dll
+E:\dnvXam\BackboardLib\BackboardLib\bin\Debug\BackboardLib.pdb
+E:\dnvXam\BackboardLib\BackboardLib\bin\Debug\BackboardLib.BackboardLib.apk
+E:\dnvXam\BackboardLib\BackboardLib\bin\Debug\BackboardLib.BackboardLib-Signed.apk
+E:\dnvXam\BackboardLib\BackboardLib\obj\Debug\BackboardLib.csprojResolveAssemblyReference.cache
+E:\dnvXam\BackboardLib\BackboardLib\obj\Debug\BackboardLib.dll
+E:\dnvXam\BackboardLib\BackboardLib\obj\Debug\BackboardLib.pdb
+E:\dnvXam\BackboardLib\BackboardLib\obj\Debug\android\bin\BackboardLib.BackboardLib.apk
+E:\dnvXam\BackboardLib\BackboardLib\obj\Debug\res\values\strings.xml
+E:\dnvXam\BackboardLib\BackboardLib\obj\Debug\R.cs.flag
+E:\dnvXam\BackboardLib\BackboardLib\obj\Debug\uploadflags.txt
+E:\dnvXam\BackboardLib\BackboardLib\bin\Debug\BackboardLib.dll.mdb
+E:\dnvXam\BackboardLib\BackboardLib\obj\Debug\BackboardLib.dll.mdb
+E:\dnvXam\BackboardLib\BackboardLib\bin\Debug\BackboardLib.dll.mdb
+E:\dnvXam\BackboardLib\BackboardLib\obj\Debug\BackboardLib.dll.mdb
+E:\dnvXam\BackboardLib\BackboardLib\bin\Debug\BackboardLib.dll.mdb

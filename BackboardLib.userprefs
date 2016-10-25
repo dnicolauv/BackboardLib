@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{A2198CCD-784D-4450-B8CF-0BDDAD6EECE8}|Default">
+  <MonoDevelop.Ide.ItemProperties.BackboardLib PreferredExecutionTarget="Android.19" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BackboardLib/Actor.cs">
+    <Files>
+      <File FileName="BackboardLib/Imitator.cs" Line="173" Column="13" />
+      <File FileName="BackboardLib/EventImitator.cs" Line="157" Column="2" />
+      <File FileName="BackboardLib/ConstrainedMotionImitator.cs" Line="11" Column="15" />
+      <File FileName="BackboardLib/MotionImitator.cs" Line="2" Column="21" />
+      <File FileName="BackboardLib/MotionProperty.cs" Line="56" Column="44" />
+      <File FileName="BackboardLib/SpringImitator.cs" Line="100" Column="2" />
+      <File FileName="BackboardLib/ToggleImitator.cs" Line="90" Column="2" />
+      <File FileName="BackboardLib/Performer.cs" Line="85" Column="17" />
+      <File FileName="BackboardLib/MapPerformer.cs" Line="12" Column="35" />
+      <File FileName="BackboardLib/InertialImitator.cs" Line="90" Column="18" />
+      <File FileName="BackboardLib/Actor.cs" Line="114" Column="32" />
+      <File FileName="BackboardLib/MotionListener.cs" Line="18" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BackboardLib" expanded="True">
+            <Node name="BackboardLib" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Actor.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
