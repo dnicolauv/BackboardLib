@@ -25,5 +25,6 @@ namespace com.tumblr.backboard
 		{
 			get { return GetViewStaticProperty("Alpha"); }
 		}
+
 	}
 }
