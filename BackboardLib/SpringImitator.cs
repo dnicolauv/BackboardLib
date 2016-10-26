@@ -14,14 +14,6 @@ namespace com.tumblr.backboard
 {
 	public class SpringImitator : Imitator, ISpringListener
 	{
-		public IntPtr Handle
-		{
-			get
-			{
-				return this.Handle;
-			}
-		}
-
 		/**
 		 * @param spring
 		 * 		the spring to imitate
